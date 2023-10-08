@@ -1,2 +1,3 @@
 # Pizza_Sales
-I created a Pizza Sales Project dashboard using SQL and Excel. The dashboard connects to MS-Excel and facilitates data analysis across various areas
+I created a Pizza Sales Project dashboard using SQL and Excel. The dashboard connects to MS-Excel and facilitates data analysis across various areas.
+The Pizza Sales Project Dashboard provides valuable insights into the pizza place's sales performance, customer preferences, and popular menu items. This information can be used to make informed decisions about staffing, inventory management, and marketing campaigns. For example, the pizza place could increase staffing levels on Friday and Saturday evenings to accommodate the higher customer volume. They could also offer promotions on the less popular pizza types to boost sales.
